@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2017-12-15T00:57:18.566228043-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://wtistangdev.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2017-12-15T00:23:10.250419332-08:00
+    created: 2017-12-15T00:57:18.566535245-08:00
     description: A Helm chart for Kubernetes
-    digest: 552778cca5df4a0b00b9b91943d0d2127e702a061b4519b56391fa5df834c515
+    digest: 9c55a3f6b4f2b134a9721e8005ce56b87f1bcdd4d30bb575b32f2d8dd65ef06d
     name: notificationchart
     urls:
-    - https://qinlorg.github.io/mycharts/notificationchart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2017-12-15T00:23:10.249958586-08:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2017-12-15T00:57:18.567131725-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    name: portfoliochart
+    urls:
+    - https://wtistangdev.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2017-12-15T00:57:18.567445142-08:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://wtistangdev.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2017-12-15T00:57:18.568236648-08:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://wtistangdev.github.io/mycharts/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-15T00:57:18.565564878-08:00
